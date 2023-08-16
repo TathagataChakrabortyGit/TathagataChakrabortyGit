@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![tathagatachakraborty's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TathagataChakrabortyGit&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/TathagataChakrabortyGit/)
